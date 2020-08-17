@@ -1,0 +1,336 @@
+Uri: https://axeprime.xyz/
+File Name: c:\Downloaded Web Sites\axeprime.xyz\index.htm
+Content Type: text/html
+
+Uri: https://axeprime.xyz/images/favicon/apple-icon-57x57.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\images\favicon\apple-icon-57x57.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/images/favicon/apple-icon-60x60.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\images\favicon\apple-icon-60x60.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/images/favicon/apple-icon-72x72.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\images\favicon\apple-icon-72x72.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/images/favicon/apple-icon-76x76.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\images\favicon\apple-icon-76x76.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/images/favicon/apple-icon-114x114.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\images\favicon\apple-icon-114x114.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/images/favicon/apple-icon-120x120.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\images\favicon\apple-icon-120x120.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/images/favicon/apple-icon-144x144.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\images\favicon\apple-icon-144x144.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/images/favicon/apple-icon-152x152.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\images\favicon\apple-icon-152x152.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/images/favicon/apple-icon-180x180.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\images\favicon\apple-icon-180x180.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/images/favicon/android-icon-192x192.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\images\favicon\android-icon-192x192.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/images/favicon/favicon-32x32.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\images\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/images/favicon/favicon-96x96.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\images\favicon\favicon-96x96.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/images/favicon/favicon-16x16.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\images\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/css/animations.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\css\animations.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/css/lightbox.min.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\css\lightbox.min.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/css/modal-video.min.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\css\modal-video.min.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/css/style.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\css\style.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/cdn-cgi/l/email-protection
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://axeprime.xyz/images/logo.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\images\logo.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/noavatarx.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\noavatarx.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/images/placeholder.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\images\placeholder.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/js/jquery-3.2.1.min.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\js\jquery-3.2.1.min.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/js/popper.min.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/js/blazy.min.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\js\blazy.min.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/js/particles.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\js\particles.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/js/isotope.pkgd.min.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/js/lightbox.min.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\js\lightbox.min.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/js/jquery-modal-video.min.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\js\jquery-modal-video.min.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/js/validator.min.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\js\validator.min.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/js/strider.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\js\strider.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/fonts/fontawesome-webfont3e6e.eot?v=4.7.0
+File Name: c:\Downloaded Web Sites\axeprime.xyz\fonts\fontawesome-webfont3e6e.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://axeprime.xyz/fonts/fontawesome-webfontd41d.eot?
+File Name: c:\Downloaded Web Sites\axeprime.xyz\fonts\fontawesome-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://axeprime.xyz/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0
+File Name: c:\Downloaded Web Sites\axeprime.xyz\fonts\fontawesome-webfont3e6e.woff2
+Content Type: font/woff2
+
+Uri: https://axeprime.xyz/fonts/fontawesome-webfont3e6e.woff?v=4.7.0
+File Name: c:\Downloaded Web Sites\axeprime.xyz\fonts\fontawesome-webfont3e6e.woff
+Content Type: font/woff
+
+Uri: https://axeprime.xyz/fonts/fontawesome-webfont3e6e.ttf?v=4.7.0
+File Name: c:\Downloaded Web Sites\axeprime.xyz\fonts\fontawesome-webfont3e6e.ttf
+Content Type: font/ttf
+
+Uri: https://axeprime.xyz/fonts/fontawesome-webfont3e6e.svg?v=4.7.0
+File Name: c:\Downloaded Web Sites\axeprime.xyz\fonts\fontawesome-webfont3e6e.svg
+Content Type: image/svg+xml
+
+Uri: https://axeprime.xyz/images/close.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\images\close.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/images/loading.gif
+File Name: c:\Downloaded Web Sites\axeprime.xyz\images\loading.gif
+Content Type: image/gif
+
+Uri: https://axeprime.xyz/images/prev.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\images\prev.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/images/next.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\images\next.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/fonts/Anurati-Regular.otf
+File Name: c:\Downloaded Web Sites\axeprime.xyz\fonts\Anurati-Regular.otf
+Content Type: font/otf
+
+Uri: https://axeprime.xyz/images/bg.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\images\bg.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/images/modal_header_bg.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\images\modal_header_bg.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/cf.errors.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/cdn-cgi/scripts/zepto.min.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\scripts\zepto.min.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/cdn-cgi/scripts/cf.common.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\scripts\cf.common.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-300.eot
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-300.eot?
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-300.woff
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-300.woff
+Content Type: application/font-woff
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-300.ttf
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-300.bin
+Content Type: application/octet-stream
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-300.svg
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-300.svg
+Content Type: image/svg+xml
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-400.eot
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-400.eot?
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-400.woff
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-400.woff
+Content Type: application/font-woff
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-400.ttf
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-400.bin
+Content Type: application/octet-stream
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-400.svg
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-400.svg
+Content Type: image/svg+xml
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-600.eot
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-600.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-600.eot?
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-600-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-600.woff
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-600.woff
+Content Type: application/font-woff
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-600.ttf
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-600.bin
+Content Type: application/octet-stream
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-600.svg
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-600.svg
+Content Type: image/svg+xml
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-700.eot
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-700.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-700.eot?
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-700-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-700.woff
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-700.woff
+Content Type: application/font-woff
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-700.ttf
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-700.bin
+Content Type: application/octet-stream
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-700.svg
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-700.svg
+Content Type: image/svg+xml
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-300i.eot
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-300i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-300i.eot?
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-300i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-300i.woff
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-300i.woff
+Content Type: application/font-woff
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-300i.ttf
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-300i.bin
+Content Type: application/octet-stream
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-300i.svg
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-300i.svg
+Content Type: image/svg+xml
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-400i.eot
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-400i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-400i.eot?
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-400i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-400i.woff
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-400i.woff
+Content Type: application/font-woff
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-400i.ttf
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-400i.bin
+Content Type: application/octet-stream
+
+Uri: https://axeprime.xyz/cdn-cgi/styles/fonts/opensans-400i.svg
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\styles\fonts\opensans-400i.svg
+Content Type: image/svg+xml
+
+Uri: https://axeprime.xyz/cdn-cgi/images/error_icons.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\images\error_icons.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/cdn-cgi/images/browser-bar.png?1376755637
+File Name: c:\Downloaded Web Sites\axeprime.xyz\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
